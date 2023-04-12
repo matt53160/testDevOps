@@ -28,6 +28,9 @@
     <PackageReference Include="Serilog.Sinks.Console" Version="4.0.1" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0" />
   </ItemGroup>
+	
+	
+	
 
   <ItemGroup>
     <PackageReference Include="Volo.Abp.Autofac" Version="7.1.1" />
